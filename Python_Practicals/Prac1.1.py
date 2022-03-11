@@ -1,0 +1,7 @@
+# Write a Python program to calculate Sum, Diff, Multiply, and Division.
+a = 10
+b = 5
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
