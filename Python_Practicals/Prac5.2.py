@@ -8,4 +8,3 @@ Perimeter = 2*pi*Radius
 print("Perimeter of the Cone is : ", Perimeter)
 Volume = (1/3)*pi*(Radius*Radius)*Height
 print("Volume of the Cone is : ",Volume)
-# 1/3pir2 h
