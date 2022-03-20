@@ -7,3 +7,26 @@ while(Num>0):
     Total = Total + Digit
     Num = Num//10
 print("The Sum of the Digits: ", Total)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

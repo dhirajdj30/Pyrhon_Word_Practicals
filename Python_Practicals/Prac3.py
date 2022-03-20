@@ -1,3 +1,4 @@
+#Practical 3: Find the average of the given list
 def Average(list):
     Sum = sum(list)
     Length = len(list)

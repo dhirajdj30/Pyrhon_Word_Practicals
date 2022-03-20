@@ -1,6 +1,4 @@
-from re import sub
-
-
+#Practical 2: 
 RollNo = 29
 Percentage = 93.7
 ID_CODE = '19CM029'

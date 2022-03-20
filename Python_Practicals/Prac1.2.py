@@ -8,12 +8,15 @@ Branch = "Computer"
 Sub = ['Python','Linux','CG', "Cloud Computing",'ETCE']
 Branches = ('IT','CM','CE','ETC','EE','ME')
 #Printing the type of the Identifiers
+print("Printing their type:")
 print(ID_CODE, type(ID_CODE))
 print(Sr_no, type(Sr_no))
 print(Name, type(Name))
 print(Branch, type(Branch))
 print(Sub, type(Sub))
 print(Branches, type(Branches))
+print()
+print("After Conversion of their Type:")
 #Type casting
 print(float(Sr_no))
 print(str(ID_CODE))
